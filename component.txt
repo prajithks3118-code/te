@@ -1,0 +1,25 @@
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/SRGroups-Customer-Reviews.git
+   cd SRGroups-Customer-Reviews
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+4. Open your browser and navigate to `http://localhost:5173`.
+
+## Technologies Used
+- React 18
+- Vite 5
+- Tailwind CSS 3
+- JavaScript (ES6+)
+
+## Future Backend Integration
+Currently, the application uses Local Storage to persist reviews. Future iterations will integrate a backend API to store and manage reviews securely on a server, allowing for cross-device synchronization and centralized data management.
